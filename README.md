@@ -17,7 +17,7 @@ _ Allow user to input the first number
 _ Allow the user to select basic arithmetic operator
 _ Allow user to put the second operator
 _Performs and display the output
-_**Error handling:Handle cases where user inputs is invalid
+_**Error handling**:Handle cases where user inputs is invalid
 ### Technology used:
 _**Java**: Java is used to write program that perform calculation
 _**Mathematical operation**:Java is used to perform mathematical operations such as arithmetic,algebra.
